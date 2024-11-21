@@ -5,3 +5,6 @@ It is like (upper case, lower case, symbols, numbers). In this project you can a
 
 This password generator project tells us how we can create a password with a particular length and whether the password is weak or strong,
 it also indicates the password strength. Which is shown in the form of light in green or red.
+Generate Password button are use to change the random password if we click on that button . It directly change the number in randomly ....
+
+Technology are used from (HTML , CSS , JAVASCRIPT )...
